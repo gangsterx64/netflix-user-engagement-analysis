@@ -1,5 +1,11 @@
 # Netflix User Engagement & Subscription Analysis  
 (SQL + Python + Power BI Project)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Analytics](https://img.shields.io/badge/Product-Analytics-6f42c1?style=for-the-badge)
+![BI](https://img.shields.io/badge/Business-Intelligence-0A66C2?style=for-the-badge)
 
 ## 📊 Project Overview
 This project analyzes user engagement, subscription behavior, and content performance using SQL, Python, and Power BI.
