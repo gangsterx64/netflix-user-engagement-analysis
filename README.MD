@@ -5,6 +5,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Analytics](https://img.shields.io/badge/Product-Analytics-6f42c1?style=for-the-badge)
 ![BI](https://img.shields.io/badge/Business-Intelligence-0A66C2?style=for-the-badge)
+
 (SQL + Python + Power BI Project)
 
 ## 📊 Project Overview
